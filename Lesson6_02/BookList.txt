@@ -1,5 +1,0 @@
-"War and Peace", "Tolstoy", 1812, 15
-"Java 8", "Shcmidt", 2008, 25
-"Generation P", "Pelevin", 2011, 10
-"Thunder", "Chekov", 1900, 10
-"Idiot", "Dostoevsky", 1860, 12
